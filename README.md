@@ -25,6 +25,6 @@ Run: ```./hashcat -D 2 -w 4 -S -m 26600 -a 0 hashes.txt BONUS.txt -o FOUND.txt``
 
 *For metamask-short... hashes use -m 26610
 
-:floppy_disk: [Download zip archive](https://github.com/private-soft/metamask_passwords_list/raw/refs/heads/main/Metamask_pass.zip)<br>
+:floppy_disk: [Download zip archive](https://github.com/cuda8/metamask_passwords_list/raw/refs/heads/main/Metamask_pass.zip)<br>
 :coin: Buy password for archive: https://t.me/send?start=IVQjT7otdmsE <br>
 :key: After payment, the bot will send you a password for the archive
